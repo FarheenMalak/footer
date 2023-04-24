@@ -1,0 +1,53 @@
+#yellow{
+    background-color: rgb(168, 168, 30);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+   height: 30px;
+   width: 30px;
+   border-radius: 50px;
+   padding: 5px 5px 0px 5px;
+}
+li{
+    color: rgb(190, 184, 184);
+    list-style-type: none;
+}
+h1,p{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.footer{
+    height: 50%;
+    width: auto;
+    background-color: rgb(54, 53, 53);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 20px;
+}
+.widthimg{
+    height: 20px;
+    width: 30px;
+    border-radius: 50px;
+}
+.end{
+    background-color: black;
+    width: 100%;
+    display: inline-block;
+  
+}
+#endpara{
+    float: left;
+    color: rgb(124, 116, 116);
+}
+#floatpara{
+    color: rgb(133, 124, 124);
+    float: right;
+}
+hr{
+    display: flex;
+}
+#main{
+    color: black;
+    text-align: center;
+}
